@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Pursuing my passion in Robotics and Unmanned Aerial Systems<br>🤝 I’m looking for help with Machine Learning <br>🌱 I’m currently learning ROS<br>💬 Ask me about Project Mangement<br>⚡ Enjoy playing Football (Soccer)
+🔭 Pursuing my passion in Robotics and Unmanned Aerial Systems<br>🤝 I’m looking for help with Machine Learning <br>🌱 I’m currently learning ROS and improving my overall programming abilities<br>💬 Ask me about Project Mangement<br>⚡ Enjoy playing Football (Soccer)
 
 
 ## 🌐 Socials:
